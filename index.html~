@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="./styles.css" type="text/css">
+  </head>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content=
+	  "width=device-width, inital-scale=1.0">
+    <title>Digital Portfolio</title>
+  </head>
+
+  <body>
+    <!--Header(start)-->
+    <table id"header" border="0" width="100%"
+	   cellpadding="0" cellspacing="0" bgcolor="#ff3800">
+      <tr>
+	<td>
+	  <table border="0" cellpadding="15"
+		 cellspacing="0" width="90%" align="center">
+	    <tr>
+	      <td>
+
+
+	      </td>
+
+	      <td>
+		<font face="Comic sans MS" size="6">
+		  <b>Digital Portfolio</b>
+		</font>
+	      </td>
+
+	      <td width="15%">
+
+	      </td>
+
+	      <td>
+		<a href="#home" style="text-decoration:none">
+		  <font face="Verdana" size="5" color=black>
+		    Home
+		  </font>
+		</a>
+	      </td>
+
+	      <td>
+
+	      </td>
+
+	      <td>
+		<a href="#about" style="text-decoration:none">
+		  <font face="Verdana" size="5" color=black>
+		    About
+		  </font>
+		</a>
+	      </td>
+
+	      <td>
+
+	      </td>
+
+	      <td>
+		<a href="projects" style="text-decoration:none">
+		  <font face="Verdana" size="5" color=black>
+		    Projects
+		  </font>
+		</a>
+	      </td>
+
+	      <td>
+
+	      </td>
+
+	      <td>
+		<a href="fingerprints.html" style="text-decoration:none">
+		  <font face="Verdana" size="5" color=black>
+		    Fingerprints
+		  </font>
+		</a>
+	      </td>
+
+	      <td>
+
+	      </td>
+
+	      <td>
+		<a href="AISentience.html" style="text-decoration:none">
+		  <font face="Verdana" size="5" color=black>
+		    AI Sentience
+		  </font>
+		</a>
+	      </td>
+	    </tr>
+	  </table>
+	</td>
+      </tr>
+    </table>
+    <!--Header(end)-->
+
+    <!--Home(start)-->
+    <table id="home" border="1" width="100%"
+	   cellpadding="20" cellspacing="0" bgcolor="black">
+      <tr>
+	<td>
+	  <table border="0" cellpadding="15"
+		 cellspacing="0" width="90%" align="center">
+	    <tr>
+	      <td> align="center" valign="middle">
+		<h3>
+		  <font face="Times New Roman"
+			size="6" color="#ffffff">
+		    Wecome to Aryan's Digital Portfolio!
+		  </font>
+		</h3>
+
+		<h2>
+		  <font face="Verdana" size="6"
+			color="#3fff00">
+		    <!-- Freelance Programmer -->
+		  </font>
+		</h2>
+	      </td>
+	    </tr>
+	  </table>
+	</td>
+      </tr>
+    </table>
+    <!--Home(end)-->
+
+
+    <!--About(start)-->
+    <table id="about" broder="0" width="100%"
+	   cellpadding="0" cellspacing="0" bgcolor="black">
+      <tr>
+	<td>
+	  <table border="0" cellpadding="15"
+		 cellspacing="0" width="80%" align="center">
+	    <tr>
+	      <td height="180" align="center"
+		  valign="middle" colspan="2">
+		<font face="Verdana" size="7"
+		      color"#3fff00">
+		  About Me
+		</font>
+		<hr color="#3fff00" width="90">
+	      </td>
+	    </tr>
+
+	    <tr>
+	      <td width="40%">
+		<img src="https://images.unsplash.com/photo-1543599538-a6c4f6cc5c05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2VsY29tZXxlbnwwfHwwfHw%3D&w=1000&q=80">
+	      </td>
+
+	      <td width="60%">
+		<font face="Verdana" size="4"
+		      color="white">
+		  Thank You for visiting my Digital
+		  Portfolio,here is a quick story
+		  of me and this website.
+		  <hr color="black">
+		  My name is Aryan Kulkarni, I attend
+		  Allen High School and am currently
+		  enrolled in Comp Sci - III, and
+		  my teacher is Mr. Ben-Yaakov,
+		  Shoutout to Mr.B. W teacher.
+		  I love to watch movies, eat and
+		  sleep. I also like to spend time
+		  relaxing and listening to music.
+		  <hr color="black">
+
+		  I mainly use the coding languages
+		  Swift, Java, Java Script, and Html
+		  I want to learn C++ and Python.
+		  Even though I do not plan to major
+		  in computer science, I still want
+		  to learn computer science as a
+		  hobby.
+		  <hr color="black">
+
+		  This Digital Portfolio is one of
+		  my class projects that we have
+		  to work on and complete, it will
+		  list my achivements, my progress
+		  and any other relevant information
+		  regarding my life/computer science
+		  class.
+
+		  Thank You once again for showing
+		  intrest and reading this,
+		  hopefully you'll enjoy seeing my
+		  progress and hardships!
+		  <hr color="black">
+		  Cya!,
+		  <br>
+		  <b>Digital Portfolio.</b>
+		</font>
+	      </td>
+	    </tr>
+	  </table>
+	  <hr color="black">
+	  <hr color="black">
+	  <hr color="black">
+	</td>
+      </tr>
+    </table>
+    <!--About(end)-->
+
+
+    <!--Projects(start)-->
+    <table id="projects" border="0" width="100%"
+	   cellpadding="0" cellspacing="0" bgcolor="#00a135">
+      <tr>
+	<td>
+	  <table border="0" cellpadding="15"
+		 cellspacing="0" width="80%" align="center">
+	    <tr>
+	      <td height="180" align="center"
+		  valign="middle" colspan="2">
+		<font face="Verdana" size="7"
+		      color="black">
+		  Projects
+		</font>
+		<hr color="black" width="90">
+	      </td>
+	    </tr>
+
+	    <tr>
+	      <td height="10">
+		<font face="Times New Roman"
+		      size="5" color="black">
+		  <ul>
+		    <li>
+		      Master Schedule Builder
+		      <a href="#" style="text-decoration:none">
+
+		      </a>
+		    </li>
+
+		    <li>
+		      <hr color="#00a135">
+		      Upcoming: API's
+		      <a href="#" style="text-decoration:none"
+			 color="#00a135">
+
+		      </a>
+		    </li>
+		  </ul>
+		  <hr color="#00a135">
+		  <hr color="#00a135">
+		  <hr color="#00a135">
+		  <hr color="#00a135">
+		</font>
+	      </td>
+
+	      <td width="45%">
+		<img src="img.png" alt="Project" width="75%">
+	      </td>
+	    </tr>
+	  </table>
+	</td>
+      </tr>
+    </table>
+    <!--Projects(end)-->
+
+    <!--Achivevement(start)-->
+    <table id="achievements" border="0" width="100%"
+	   cellpadding="0" cellspacing="0" bgcolor="black">
+      <tr>
+	<td>
+	  <table border="0" cellpadding="15"
+		 cellspacing="0" width="80%" align="center">
+	    <tr>
+	      <td height="180" align="center" valign="middle">
+		<font face="Verdana" size="7" color="#00f7ff">
+		  FingerPrints
+		  <hr color="#00f7ff" width="100">
+		</font>
+	      </td>
+	    </tr>
+
+	    <tr>
+	      <td>
+		<font face="Verdana" size="4" color="white">
+		  <ul>
+		    <li>
+		      <p> The internet is a wide, public data network filled with many different types of information.The data flows around the globe freely and is able to be accessed by any LAN or internet connection around the world. Most of the information available is there for public use. HTTP is the address that starts the website address to get to whatever website you want to get to. Most people are more familiar with HTTPS, the S at the end stands for security and is to make websites more secure. This makes it so, no 3rd party or foreign object can interfere with the website. The main 2 purposes of HTTPS is that it secures communication and data transfer between the user's web browser and the website. Another great thing is HTTPS Proxy Appliance. HTTPS Proxy Appliance is the request/response protocol between clients and servers used for secure communications and transactions. (GRC 3) The next thing we can discuss is MITM. What is MITM you may ask. MITM stands for man in the middle attack. This is risky and the most unsafe at public internet locations, for example: Airports, Coffee shops, even school. MITM is when you are vulnerable on the internet and you can get attacked and have your information stolen. (GRC 4) Maps are a great tool that helps us find many locations that we are searching for, this leads us to hashes. A hash function is any function that can be used to map data of arbitrary size to fixed-size values, a hash is also usually a set amount of characters generated from something. Some good things about hashes are that there are four main characteristics of a good hash function: 1) The hash value is fully determined by the data being hashed. 2) The hash function uses all the input data. 3) The hash function "uniformly" distributes the data across the entire set of possible hash values. (GRC 6) Buying fake items is never worth it, not only is the quality of the item bad, it’s usually obvious the item is fake. This goes with CA. CA authenticates your Ip addresses to make sure you are real and your websites are the real deal and not some scams or untrustworthy sites. CA plays a good role in keeping you and your website safe. (GRC) SSL interception cannot be prevented, however it can be detected. It is detected when the digital signature that the host sent doesn't match their real one. (GRC 7) False-positive? What is that? Allow me to explain. False positive is when the digital signature doesn't match but it's probably fine, google uses multiple authentication so they have multiple. On the other hand a false negative is when a test result which incorrectly indicates that a particular condition or attribute is absent. (GRC) Eavesdropping and spying are the same things. Can and is your school or isp allowed to spy on you. Of course most people would go and instantly say NO! However unfortunately that is not the case. Whenever you use a public or school wifi and you connect to it, you are giving consent for the school to do whatever they want with your information, as unfortunate as that is, it's the truth.</p>
+		      <ul>
+			<li>
+			  Flow Chart and formatting of the essay will be done shortly! Please be patient. 
+			</li>
+			<a href="https://aryan-kulkarni.github.io">Github Page</a>
+			  
+
+
+
+			 
+			 
+  </body>
+  
+  
+  
+
+  
+
+</html>
+
+
+
+
+
